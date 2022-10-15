@@ -6,7 +6,7 @@
 // try to predict the output and check the actual output by uncommenting them ...
 // Hope it will help you for getting a bit more idea about the current topic ...
 
-// Happy coding ...
+// Happy coding ... 💻
 
 // console.log(22 === 22.0000000000004);
 // console.log(10 / 3);
@@ -71,7 +71,8 @@ const num = 23;
 
 //
 //
-/////// You can start practicing now ...
+/////// You can start practicing now ... ✈️
+
 // ============================
 //// 01...
 // statement: Write a JavaScript program to find the sum of given numbers.
