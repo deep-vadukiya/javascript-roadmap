@@ -1,6 +1,6 @@
 // New Costa Bank Site ...
 
-// Find demo site here: https://vermillion-meerkat-dcb875.netlify.app/
+// Find demo site here: https://new-costa-bank-app.netlify.app/
 
 console.log("Connected ...");
 
