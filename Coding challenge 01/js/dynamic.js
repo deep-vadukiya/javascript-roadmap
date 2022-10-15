@@ -1,4 +1,4 @@
-// ======== BANKIST APP ... ========
+// ======== New Costa Bank ========
 
 // Data ...
 const account1 = {
