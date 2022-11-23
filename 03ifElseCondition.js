@@ -36,11 +36,11 @@ let var022 = "Hello";
 //// 03...
 // statement: Write a if else block that prints the status of traffic light (use else if) ...
 // test case 01:
-// if green => The light is green
-// else if red => The light is red
-// else if blue => The light is blue
-// if yellow => The light is yellow
-let var031 = "GREEN";
+// if GREEN => The light is green
+// else if RED => The light is red
+// else if BLUE => The light is blue
+// if YELLOW => The light is yellow
+let var031 = "GREEN"; // the value of var031 can be "GREEN", "RED", "BLUE" or "YELLOW" ...
 
 // write your code here ...
 // []
@@ -52,7 +52,7 @@ let var031 = "GREEN";
 // test case 01:
 let a041 = 18;
 let b041 = 8;
-let action042 = "add";
+let action042 = "add"; // the value of action042 can be "add", "sub", "mul" or "div" ...
 
 // write your code here ...
 // []
@@ -101,7 +101,7 @@ let a061 = 21;
 // []
 
 // test case 02:
-let a062 = 21;
+let a062 = -17;
 
 // write your code here ...
 // []

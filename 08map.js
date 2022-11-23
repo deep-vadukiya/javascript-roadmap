@@ -64,7 +64,7 @@ let arr031 = [
 //
 // ============================
 //// 04...
-// statement: Write a JavaScript map loop that will converts the string element into number ...
+// statement: Write a JavaScript map loop that will converts the string element into number in new array ...
 // test case 01:
 let arr041 = ["12.34", "43.34", "23.43", "56.99", "78.65", "98.123", "78.66"];
 
@@ -94,7 +94,25 @@ let arr051 = [
 //
 // ============================
 //// 06...
-// statement: Write a JavaScript map loop that will converts the string element into number ...
+// statement: Write a JavaScript for loop that will converts the string element into number (use for loop) ...
+// test case 01:
+let arr081 = [
+  { fName: "John", lName: "Doe", Position: "Manager" },
+  { fName: "Kartier", lName: "Liever", Position: "President" },
+  { fName: "Karl", lName: "Pei", Position: "Designer" },
+  { fName: "Bob", lName: "Martin", Position: "Developer" },
+  { fName: "Donna", lName: "Linchmen", Position: "Receptionist" },
+];
+// expected output:
+// ["John", "Kartier", "Karl", "Bob", "Donna"];
+
+// write your code here ...
+// []
+
+//
+// ============================
+//// 07...
+// statement: Write a JavaScript map loop that will create new array which will contains the fName for case 01 and position for case 02 property of each element ...
 // test case 01:
 let arr061 = [
   { fName: "John", lName: "Doe", Position: "Manager" },
@@ -119,42 +137,6 @@ let arr062 = [
 ];
 // expected output:
 // ["Manager", "President", "Designer", "Developer", "Receptionist"];
-
-// write your code here ...
-// []
-
-//
-// ============================
-//// 07...
-// statement: Write a JavaScript map loop that will converts the string element into number ...
-// test case 01:
-let arr071 = [
-  { fName: "John", lName: "Doe", Position: "Manager" },
-  { fName: "Kartier", lName: "Liever", Position: "President" },
-  { fName: "Karl", lName: "Pei", Position: "Designer" },
-  { fName: "Bob", lName: "Martin", Position: "Developer" },
-  { fName: "Donna", lName: "Linchmen", Position: "Receptionist" },
-];
-// expected output:
-// ["John", "Kartier", "Karl", "Bob", "Donna"];
-
-// write your code here ...
-// []
-
-//
-// ============================
-//// 08...
-// statement: Write a JavaScript for loop that will converts the string element into number (use for loop) ...
-// test case 01:
-let arr081 = [
-  { fName: "John", lName: "Doe", Position: "Manager" },
-  { fName: "Kartier", lName: "Liever", Position: "President" },
-  { fName: "Karl", lName: "Pei", Position: "Designer" },
-  { fName: "Bob", lName: "Martin", Position: "Developer" },
-  { fName: "Donna", lName: "Linchmen", Position: "Receptionist" },
-];
-// expected output:
-// ["John", "Kartier", "Karl", "Bob", "Donna"];
 
 // write your code here ...
 // []

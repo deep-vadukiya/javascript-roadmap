@@ -5,6 +5,7 @@
 // It will helps you a lot ...
 
 const mohoBranding = {
+  // properties ...
   name: `The Grand Montano`,
   location: `Mohave`,
   categories: [
@@ -20,6 +21,8 @@ const mohoBranding = {
     `Griffin Larson`,
     `Ellie Goulding`,
   ],
+
+  // methods ...
   // Function to return two values, from the different objects of the array ...
   open: function (catIndex, cliIndex) {
     return [this.categories[catIndex], this.clients[cliIndex]];
@@ -149,3 +152,34 @@ let codes05 = {
 
 // write your code here ...
 // []
+
+//
+// ============================
+//// 06...
+// statement: write a Javascript program to concat the given objects in new object variable, and print the value of new object ...
+// test case 01:
+let obj061 = {
+  firstName: "SOFTICES",
+  lastName: "ACADEMY",
+  currentYear: 2022,
+};
+let obj062 = {
+  location: "SURAT",
+  technology: "JAVASCRIPT",
+};
+
+// write your code here ...
+// []
+
+// test case 02:
+let obj0612 = {
+  firstName: "SOFTICES",
+  lastName: "ACADEMY",
+  currentYear: 2022,
+};
+let obj0622 = {
+  firstName: "Softices",
+  lastName: "Academy",
+  location: "Surat",
+  tech: "JavaScript",
+};

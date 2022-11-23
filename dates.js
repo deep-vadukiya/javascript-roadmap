@@ -29,8 +29,24 @@ const future = new Date(2037, 10, 19, 15, 23);
 
 // console.log(+future);
 
-/// Start practicing now ...
+//// General knowledge ...
+
+// 1 sec => 1000 ms
+// 2 sec => 2000 ms
+// 60 sec => 60*1000 ms
+// 60 min => 60*60*1000 ms
+// 24 hour => 24*60*60*1000 ms
+
+// # TODO:
+// 1. what is IST (Indian Standard Time)
+// 2. what is UTC (Universal Time Coordinated)
+// 3. what is ISO date (International Organization for standardization)
+// 4. time zones
+
+///////////////////////////////////////
+/// You can start practicing now ... 🎬
 ///////////////////////////////
+
 // ============================
 //// 01...
 // statement: Write a JavaScript program to print the current default date ...
@@ -118,6 +134,16 @@ let dateStr091 = "1992-02-09T03:32:23.000Z";
 //// 10...
 // statement: Write a JavaScript program to convert the given records and converts that to date string and then get the year from the converted date string and then check if the yesr is leap yesr or not ...
 let dateStr101 = "2009-04-15T06:23:36.000Z";
+
+// write your code here ...
+// []
+
+//
+// ============================
+//// 11...
+// statement: Write a JavaScript program to compare the given two date and print which date is greater and which one is smaller
+let dateStr111 = new Date();
+let dateStr112 = new Date("2030");
 
 // write your code here ...
 // []
