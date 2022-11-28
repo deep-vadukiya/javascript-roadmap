@@ -73,7 +73,7 @@ let val041 = 213.456;
 // write your code here ...
 // []
 
-// test case 02: Write a JavaScript Program to Add Element to add element to the of an Array ...
+// test case 02: Write a JavaScript Program to Add Element at the end of an Array ...
 let arr042 = [12, 65, 923, 19, 56, 96, 45];
 let val042 = -69;
 
@@ -97,7 +97,7 @@ let height051 = 40;
 // write your code here ...
 // []
 
-// test case 02: JavaScript Program to Get the area of square
+// test case 02: JavaScript Program to Get the area of square ...
 let width052 = 34;
 let height052 = 89;
 
@@ -115,7 +115,7 @@ let str061 =
 // write your code here ...
 // []
 
-// test case 02: JavaScript Program to Get the areaa of square
+// test case 02: JavaScript Program to Get the area of square ...
 let width062 = 34;
 let height042 = 89;
 
